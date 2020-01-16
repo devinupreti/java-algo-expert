@@ -11,6 +11,8 @@ Excluded Solutions:
 4 - Min Max Stack Construction  
 5 - Suffix Trie Construction  
 
+Solved -> 52 (As of January 15, 2020)
+20/80
 
 
 
